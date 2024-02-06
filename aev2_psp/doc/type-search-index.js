@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"es.florida.client","l":"ClienteReceptor"},{"p":"es.florida.client","l":"ClienteTransmisor"},{"p":"es.florida.server","l":"Peticion"},{"p":"es.florida.server","l":"Servidor"}];updateSearchResults();

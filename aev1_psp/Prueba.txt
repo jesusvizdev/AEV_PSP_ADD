@@ -1,0 +1,45 @@
+El total de piezas a fabricar es: 9
+-------------------------
+Detalles de fabricacion: 
+
+T intentando adquirir una maquina...
+T intentando adquirir una maquina...
+T intentando adquirir una maquina...
+T ha adquirido una maquina y comenzara el proceso de fabricacion.
+T ha adquirido una maquina y comenzara el proceso de fabricacion.
+T intentando adquirir una maquina...
+T ha adquirido una maquina y comenzara el proceso de fabricacion.
+T intentando adquirir una maquina...
+T ha adquirido una maquina y comenzara el proceso de fabricacion.
+T intentando adquirir una maquina...
+T intentando adquirir una maquina...
+T ha adquirido una maquina y comenzara el proceso de fabricacion.
+T ha adquirido una maquina y comenzara el proceso de fabricacion.
+T intentando adquirir una maquina...
+T ha adquirido una maquina y comenzara el proceso de fabricacion.
+T ha adquirido una maquina y comenzara el proceso de fabricacion.
+T intentando adquirir una maquina...
+T_20231108_211549
+T_20231108_211549
+T_20231108_211549
+T_20231108_211549
+T_20231108_211549
+T_20231108_211549
+T_20231108_211549
+T ha liberado la maquina.
+T_20231108_211549
+T ha liberado la maquina.
+T ha liberado la maquina.
+T ha liberado la maquina.
+T ha liberado la maquina.
+T ha liberado la maquina.
+T ha liberado la maquina.
+T ha adquirido una maquina y comenzara el proceso de fabricacion.
+T ha liberado la maquina.
+T_20231108_211552
+T ha liberado la maquina.
+-------------------------
+El proceso de fabricacion ha finalizado.
+Total de piezas fabricadas: 9
+-------------------------
+Fichero timestamp creado correctamente: LOG_20231108_211552.txt

@@ -1,0 +1,4 @@
+Titulo: Reservoir Dogs
+Usuario1: Me ha gustado mucho
+Usuario2: Me ha gustado aunque el director tiene mejores peliculas
+Usuario3: No es una mala pelicula para pasar el rato
