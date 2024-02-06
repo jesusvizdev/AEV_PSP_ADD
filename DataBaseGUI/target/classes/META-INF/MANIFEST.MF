@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Built-By: Jesￃﾺs
+Build-Jdk: 17.0.8
+Class-Path: mysql-connector-java-8.0.26.jar protobuf-java-3.11.4.jar com
+ mons-codec-1.15.jar
+Main-Class: es.florida.ae2.Principal
+Created-By: Maven Integration for Eclipse
+
